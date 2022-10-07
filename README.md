@@ -1,3 +1,6 @@
+Part 3 Can be found at: https://github.com/nishantb15/Ray-Tracer-Part-3-Reflection-Refraction-And-Area-Lights
+
+
 Help from Sources:
 https://raytracing.github.io/books/RayTracingInOneWeekend.html#addingasphere/ray-sphereintersection
 (For ray, vector, hittable, material, util and ppm color writer)
